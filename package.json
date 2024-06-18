@@ -1,0 +1,13 @@
+{
+  "name": "userts",
+  "source": "src/user.ts",
+  "browserslist": "fully supports es5",
+  "main": "dist/user.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
