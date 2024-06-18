@@ -23,4 +23,4 @@ bun run build
 ```
 This will create a `/dist` directory containing a `user.js` file, which is the final output. From here, you should be able to install dependencies and import them in your `user.ts` file. It is recommended to read the [metadata block](https://violentmonkey.github.io/api/metadata-block/), and [greasemonkey api](https://violentmonkey.github.io/api/gm/) documentation to modify the metadata block for the site you want.
 ## Naming
-UserTS is named after the conventional extension of a userscript, `.user.ts`.
+UserTS is named after the conventional extension of a userscript, `.user.js`.
